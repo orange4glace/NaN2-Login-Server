@@ -1,0 +1,14 @@
+hash: 33db2e5819a2cfea52f30d67597ad4a713da609dc568bcec55471f7d0980afca
+updated: 2017-07-25T00:52:38.590760706+09:00
+imports:
+- name: github.com/google/uuid
+  version: 064e2069ce9c359c118179501254f67d7d37ba24
+- name: github.com/lib/pq
+  version: dd1fe2071026ce53f36a39112e645b4d4f5793a4
+- name: github.com/orange4glace/prosumer
+  version: 824a1d8d709999f70c1f056bef78edd66e9147dd
+- name: github.com/orange4glace/reliableamqp
+  version: 6e90e6276c672650e3e03b7b0a2391c2bd524bbf
+- name: github.com/streadway/amqp
+  version: 2cbfe40c9341ad63ba23e53013b3ddc7989d801c
+testImports: []
