@@ -1,6 +1,0 @@
-package: github.com/orange4glace/login-server
-import:
-- package: github.com/streadway/amqp
-- package: github.com/lib/pq
-- package: github.com/google/uuid
-  version: ~0.2.0
